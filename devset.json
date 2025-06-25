@@ -1,0 +1,27 @@
+[
+  {
+    "query": "Can I return an item after 30 days?",
+    "context": "Within 14 days from the shipping date, you can receive a full refund to the original method of payment. Within 30 days from the shipping date, you can exchange your item or return for merchandise credit on a Digital Gift Card. After 30 days, we will no longer accept returns.",
+    "expected": "No, returns are not accepted after 30 days."
+  },
+  {
+    "query": "Are face masks eligible for returns?",
+    "context": "The following items are final sale and not eligible for return or exchange: Face Masks, Sale items marked at 50% off or greater, Intimates and Shapewear.",
+    "expected": "No, face masks are final sale and cannot be returned."
+  },
+  {
+    "query": "How can I exchange an online purchase?",
+    "context": "Exchanges for online purchases may be completed in store or by mailing back your online return and then placing a new order.",
+    "expected": "You can exchange an online purchase in store or by returning the item and placing a new order."
+  },
+  {
+    "query": "What is your policy for returning sale merchandise?",
+    "context": "Within 14 days from the shipping date, sale items marked with a discount less than 50% can be exchanged or returned for merchandise credit on a Digital Gift Card. Sale items marked with a discount of 50% or greater are final sale.",
+    "expected": "Items discounted under 50% can be returned for merchandise credit within 14 days. Items at 50% off or more are final sale."
+  },
+  {
+    "query": "What are the return options if I used PayPal?",
+    "context": "Orders purchased via PayPal will only be eligible for a refund to your PayPal account when you mail them back to us. If you return items purchased via PayPal in store, we\u2019ll exchange them or issue you merchandise credit.",
+    "expected": "To get a PayPal refund, you must mail the return. In-store returns give merchandise credit or exchanges."
+  }
+]

@@ -1,0 +1,4 @@
+dspy==3.0.0b1
+openai
+python-dotenv
+ruff
